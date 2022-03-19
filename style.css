@@ -57,9 +57,9 @@ transform: translateX(-50%);
 width: 348px;
 height: 488px;
 pointer-events: none;
-background: url(/img/bulb_off.jpg) no-repeat;
+background: url(bulb_off.jpg) no-repeat;
 transition: 0.5s;
 }
 label input:checked ~ .bulb{
-    background: url(/img/bulb_on.jpg) no-repeat;
+    background: url(bulb_on.jpg) no-repeat;
 }
